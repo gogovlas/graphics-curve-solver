@@ -1,2 +1,5 @@
-# graphics-curve-solver
-Program that implements Hermit, Interpolation and Bezier curves with OpenGL
+# Graphics Curve Solver in C++
+Uses openGL & glut libraries. Program implements the following types of curves:
+- Hermit
+- Cubic Interpolation 
+- Bezier
