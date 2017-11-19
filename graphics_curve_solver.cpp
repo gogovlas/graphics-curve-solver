@@ -1,15 +1,15 @@
 /**************************************************
- *												  *
+ *						  *
  * Program that implements Hermit, Interpolation  *
- * and Bezier curves with OpenGL.			      *
- *												  *	
- *       by										  *
- *												  *
- * Vlasis Gogousis [vgogousis@gmail.com]		  *
+ * and Bezier curves with OpenGL.		  *
+ *						  *	
+ *       by					  *
+ *						  *
+ * Vlasis Gogousis [vgogousis@gmail.com]    	  *
  * Kiki Hatzistavrou [kikihatzistavrou@gmail.com] *
- *												  *
+ *						  *
  * Aristotle University of Thessaloniki, 2014	  *
- *												  *
+ *						  *
  **************************************************/
 
 #include <math.h>
